@@ -1,0 +1,5 @@
+Total audio files: 31
+Total duration (seconds): 1620 
+Total duration (minutes): 27.00
+Male recordings count: 20
+Female recordings count: 11
