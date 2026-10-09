@@ -74,20 +74,6 @@ Check the data for missing information, inconsistent formatting, duplicate entri
 
 Prepare and organize written transcripts associated with the available voice data.
 
-**Stage 5: AI and NLP Development**
-
-Use the prepared datasets to explore language processing and suitable machine learning approaches.
-
-**Stage 6: Chatbot Development**
-
-Use the selected approach to work towards a chatbot that can understand supported regional-language input and provide relevant responses.
-
-**Stage 7: Testing and Improvement**
-
-Evaluate the results, identify errors, improve the dataset, and refine the chatbot as development progresses.
-
-*These stages describe the intended workflow. Each stage will be marked as complete only after the corresponding work has been performed and verified.*
-
 ## 5. Technologies Used
 
 | Technology                        | Purpose                                              |
@@ -206,5 +192,3 @@ SKIT, Jaipur, Rajasthan, India
 ## Conclusion
 
 This project explores the use of Artificial Intelligence and Natural Language Processing to support regional languages. By organizing Marwari and Hadoti text and voice data and preparing it for future development, the project aims to contribute towards more accessible regional-language technology.
-
-The repository will be updated as the project progresses, with source files, datasets, documentation, and verified progress reports maintained in their respective locations.
