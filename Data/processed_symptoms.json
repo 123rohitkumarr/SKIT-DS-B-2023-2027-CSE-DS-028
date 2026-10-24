@@ -1,0 +1,2557 @@
+[
+  {
+    "filename": "M1.m4a",
+    "gender": "Male",
+    "raw_transcript": "आज मुझे हस्पताल जांच करा बागियो। डॉक्टर ने पूछो कहीं तकलीब है। कैसा चल हो ही था रहा है। मैंने बताया हूँ मैं बुकार, खांसी और कमजोरी तीन दन सुन हो रही है। जांच पाचे डॉक्टर ने दवाई लिखी। अब कणा कहीं लिखी वो बगव",
+    "detected_dialect": "Hadoti",
+    "extracted_symptoms": [
+      "Fever",
+      "Cough",
+      "Body Ache & Weakness"
+    ],
+    "symptoms_count": 3,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "तीन दन सु",
+    "clinical_summary": "Patient presents with Fever, Cough, Body Ache & Weakness (Mild severity, duration: तीन दन सु).",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M2.m4a",
+    "gender": "Male",
+    "raw_transcript": "मारो नाम सुरेश है, खल डंत्या सूं। मैं गणी बुखार आ रही है, मातों भी दुक्रियो है और बदन भी गणो दर्द कर है। रात बार ठीक से नींद भी नहीं है मैं। आज मुझे डॉक्टरों दिखाबा जाओं ताकि सही उपचारों हो मारो और मैं अराम मल सक।",
+    "detected_dialect": "Hadoti",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "रात बार",
+    "clinical_summary": "Patient presents with Fever (Moderate severity, duration: रात बार).",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M3.m4a",
+    "gender": "Male",
+    "raw_transcript": "आज सवेरों सु मारा पेट में गणों दुख रहे हैं। कहीं खाऊं तो उल्टी जे सु लाग है। भूग बिलकुल नहीं लाग रही। अन्मू गणों सु कमजोर सु हैसूस कर रहे हो। गर्वाला मना डॉक्टर ना दिखावने दी सलाद देवा है। अब मु डॉक्टर का",
+    "detected_dialect": "Hadoti",
+    "extracted_symptoms": [
+      "Abdominal Pain",
+      "Nausea & Vomiting"
+    ],
+    "symptoms_count": 2,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Mild",
+    "duration": "आज",
+    "clinical_summary": "Patient presents with Abdominal Pain, Nausea & Vomiting (Mild severity, duration: आज).",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M4.m4a",
+    "gender": "Male",
+    "raw_transcript": "हमारा बान है सुगर्री बीमारी है। डॉक्टर ना रोज समय पर दवाई लेबा और मिटो कम खाबा और थोड़ो चालबा फरबा की सलादी। अवे रोज सुबही फरबा जावा और खान पान पर ध्यान रखका है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M5.m4a",
+    "gender": "Male",
+    "raw_transcript": "डॉक्टर साहब, दो दिन सुमन जुखाम हो रहा है, नाग बहरी है, और बार-बार छीका आवा है, गलो दुख रहा है, और खासी गणी आवा है, गरम पानी फीर रहा है, पर मारा कहीं फरक नहीं पड़िया है, तो मुझे दवाई ले बाया है, तोड़ी बढ़िया दवाई  हो रहा है, अनगणी कमजोरी फील हो रही है, तो मैं बढ़िया आशू, बढ़िया गोरी दो,",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Cough",
+      "Cold & Coryza",
+      "Body Ache & Weakness",
+      "Sore Throat"
+    ],
+    "symptoms_count": 4,
+    "affected_body_parts": [
+      "Throat"
+    ],
+    "severity_level": "Mild",
+    "duration": "दो दिन सु",
+    "clinical_summary": "Patient presents with Cough, Cold & Coryza, Body Ache & Weakness, Sore Throat (Mild severity, duration: दो दिन सु).",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M6.m4a",
+    "gender": "Male",
+    "raw_transcript": "आज गाउं में मौसम गण सुमावण है। सब लोग खेता में काम कर बग गया। मुझे भी आज खेत पर जाऊंगा, काम करूँगा, और काम करेंगा कर पच्चे। घर आर बढ़िया, घर वार अकलार, रोटी बेट और खाऊंगा, और अराम करूँगा बढ़िया, और सौं�",
+    "detected_dialect": "Hadoti",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "आज",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M7.m4a",
+    "gender": "Male",
+    "raw_transcript": "हमारी जीजी नों कई दिन सुन बीपीरी तकलीब है। कई बार मातों दुखायों को अनचक्करा होनी है।  डॉक्टर ने समय पर दवाई लेवा और नमक कम खावा और तनाव से दूर रह बाई की सलादी है।  अब वह सब काम कर रही है डॉक्टर के क्या नुसार।  मैं उम्मीद है कि जल्दी से जल्दूंगो बीपी लो हो जागा और नॉर्मल प्रेशर में आ जागा है।  डॉक्टर साहब को गणों गणों धन्यवाद। अगर यह सब सही हो जाओ तो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Dizziness"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "कल",
+    "clinical_summary": "Patient presents with Dizziness (Mild severity, duration: कल).",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M8.m4a",
+    "gender": "Male",
+    "raw_transcript": "आज सवेर उठते ही फिला मना गणी कमजोरी महसूस हुई। मना भूख भी नहीं लगी और बार बार प्यास लाग रही है।  आज सवेर उठते ही फिला मना गणी कमजोरी महसूस हुई।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Body Ache & Weakness"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "आज",
+    "clinical_summary": "Patient presents with Body Ache & Weakness (Mild severity, duration: आज).",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M9.m4a",
+    "gender": "Male",
+    "raw_transcript": "खाल बाजार सो काना खाईं खायो मना है। मनी खाया पचे मेरा पेट में गणो दर्द चलू हो गयो। और जी मारो मलचाव है। अनभूग बिलकुल भी नहीं लागरी। उल्टियां जेशों मन नारो हो गयो।  डॉक्टर से पास गयो तुम्हों जो डॉक्टर ने में कम खानो खाबा की और हलको खानो खाबा की सलाद दिया है। अनभूग थोड़ी रात महसूस करूँआ। तब जान मारा फरक पर रहा राम सूँ। अवान तो दनी खराब चाल रहा है। रोजी खाईने कहीं हो तो र  दवाया खाँ खाँ भी खाँ तक खाँ मूँ। मारे तो परेशानी गणी है। अब साई हो जाऊंगा मूँ। दो दन से तो गणू परेशान हो रहू और बीमारी ने तो मारो जीव ले लियो। कहीं समझ में नहीं आ रहो है। डॉक्टर साब ने खी तो है। दवाया दि�",
+    "detected_dialect": "Hadoti",
+    "extracted_symptoms": [
+      "Nausea & Vomiting"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [
+      "Stomach / Abdomen",
+      "Ears"
+    ],
+    "severity_level": "Mild",
+    "duration": "दो दन से",
+    "clinical_summary": "Patient presents with Nausea & Vomiting (Mild severity, duration: दो दन से).",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M10.m4a",
+    "gender": "Male",
+    "raw_transcript": "मारो नाम रामलाल से है। मुझे कोटा जीलार और रेवाड़ों से है। एक छोटा सा गांव से है।  आज सवेर से मन थोड़ी तबयत खराब लाग रही है। मन बुकार है। गलो दुख रही है। और खांसी भी आ रही है।  दो दिन सु ठीक सु नीन भी नहीं आई। मुझे डॉक्सर सो सला लेना चाहूँ और जानना चाहूँ कि मन काई बिमारी हो सका।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Fever",
+      "Cough",
+      "Sore Throat"
+    ],
+    "symptoms_count": 3,
+    "affected_body_parts": [
+      "Throat"
+    ],
+    "severity_level": "Moderate",
+    "duration": "दो दिन सु",
+    "clinical_summary": "Patient presents with Fever, Cough, Sore Throat (Moderate severity, duration: दो दिन सु).",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M11.mp4",
+    "gender": "Male",
+    "raw_transcript": "डॉक्टर साब, सुबह से ही माथा का पाछला हिस्सा में दर्द हो रियो और आंख्यां के आगे अंधारो आग्यो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Head",
+      "Eyes"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M12.mp4",
+    "gender": "Male",
+    "raw_transcript": "दिनभर बड़ी थकान रेवे, थोड़ा सो काम करते ही पहली हाथ-पैर कांपबा लाग जावे और वजन भी कम होतो जा रियो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Body Ache & Weakness"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [
+      "Joints / Limbs",
+      "Ears"
+    ],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Body Ache & Weakness (Mild severity, duration: Not Specified).",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M13.mp4",
+    "gender": "Male",
+    "raw_transcript": "डाक्टर साब, पिछला एक हफ्ता से बहुत ज्यादा तस लाग री और बार-बार पेसाब जाणी पड़ रियो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "एक हफ्ता से",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M14.mp4",
+    "gender": "Male",
+    "raw_transcript": "बलगम वाली खांसी है डॉक्टर साब, रात में सोता समय सीटी वाली आवाज आवै, और सांस भी फूलबा लाग जावै।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Cough"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "रात",
+    "clinical_summary": "Patient presents with Cough (Moderate severity, duration: रात).",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M15.mp4",
+    "gender": "Male",
+    "raw_transcript": "डॉक्टर साब, एक हफ्ता से जुकाम है, नाक बह री, और सीना में बहुत ज्यादा जकड़न सी महसूस हो री।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Cold & Coryza"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "एक हफ्ता से",
+    "clinical_summary": "Patient presents with Cold & Coryza (Severe severity, duration: एक हफ्ता से).",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M16.mp4",
+    "gender": "Male",
+    "raw_transcript": "हां डॉक्टर साब, धूल में जाता समय बार-बार छींकां ता आवै।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Cold & Coryza"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Cold & Coryza (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M17.mp4",
+    "gender": "Male",
+    "raw_transcript": "बोलो नी...",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M18.mp4",
+    "gender": "Male",
+    "raw_transcript": "बीच में दवाई खत्म होगी ती, तो दो-तीन दिन मैं बाद में लाया फिर बाद में।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "तीन दिन",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M19.mp4",
+    "gender": "Male",
+    "raw_transcript": "[हँसी] घणी आफत आई म्हारै... [हँसी]",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "M20.mp4",
+    "gender": "Male",
+    "raw_transcript": "गेल्यां में म्हारी मोटरसाइकिल पंचर होगी ही... फेर हेडलाइन पिंदे जंघाड़ बाण दो फीट को पाणी भर्यो हो, उमें मोटरसाइकिल बंद होगी। उवां खड़ेनारी कोई नी, हाफ ढिंडू न्हारो बीट्यो उमें।  कठे? पुलिया के नीचे... हेडलाइन के पिंदे फंस ग्यो। 200 फीट बीच में, 200 फीट पाछे जाऊं तो भी, 200 फीट अठी। कठी निकलूं? ढिंडू? कतरो पाणी भरो हो उवां? दो-तीन फीट पाणी भरो हो   ढिंडू में ज़हर तो रेवै यार एक बार वां मारे तो घोड़ान जो मार्यो, तेलीय पदार्थ निकळ्यो तो झाग छोड़्या उने... मतलब ज़हर तो रहवै उमें गोयरा में भी ज़हर रहवै काईं? ना, गोयरा में नी रहवै।   तू काल जावेगो न रात में? कतरी बजे? रात में म्हारी 12 बजे की ट्रेन है, मु 10 बजे निकलूँगा। 12 बजे की कोटा से है? हाँ, इंदौर इंटरसिटी से 10-11 बजे कोटा छोड़ देवेगा, फेर 12 बजे कोटा से         ट्रेन  है। कहाँ को? दिल्ली को... दिल्ली से फेर खरखौदा। रूम वां से 20 किमी दूर पड़े, वां से बस लेवा आवै। सैलरी मान लो 20,000 है, तो 10,000 रूम को अलग से दे रिया (हाउस रेंट)। बेसिक पे  19,000, रेंट अलाउंस 9,500, कन्वीनियंस रिफंड 2,000 अलग से। पीएफ कतरो कटै? पीएफ 2,500 कटबा लाग ग्यो, पहली 2,280 थो। महीना का कतरा देवे टोटल? 33,000 से 35,000 मान लो। बस को किरायो 1,900 रुपये कटै। खाणो-पीणो कंपनी देवे? नाइट शिफ्ट है तो डिनर करा देवेगा, दिन की है तो लंच। चाय-नाश्ता को 7 मिनट को ब्रेक मिले। तो भी 10-15 हज़ार तो बच ही जावे। कमरो कतरा में मिल्यो? 12,000 को फ्लैट है, 5 जणा रहवां। दो रूम, हॉल, बालकनी और किचन। हिस्सा में 2,400 - 2,500 रुपया आया। मेस को खार्चो? पहलां 8,000 में कट जातो, अब 10-11 हज़ार लागे। ढाबा पे 80-90 रुपया की प्लेट है। शिफ्ट कतरी चालै? तीन शिफ्ट चालै—A, B और C। A और B आठ-आठ घंटा की, C शिफ्ट रात 12 से सुबह 6 बजे (6 घंटा) की।   कसी कंपनी है, काईं बणै उड़े? मारुति सुजुकी। उड़े ब्रेज़ा (Brezza) और विक्टोरिस (Grand Vitara) बणै। एक दिन में कतरी गाड़ियां निकळै? एक दिन में 900 से 1,000 गाड़ियां बणै। म्हूं इंजन शॉप में काम करूं। सब पार्ट्स उड़े ही बणै? आसपास ही दूसरी कंपनियाँ का प्लांट लाग रिया, सीट वगैरह सब पास ही बणै और सप्लाई होवै। कंपनी में रेट काईं पड़ै ब्रेज़ा की? कंपनी रेट 7-8 लाख होवै, बाहर शोरूम में टैक्स और ट्रांसपोर्टेशन जोड़'र 10-12 लाख की पड़ै। गुजरात, मानेसर और बाहर ट्रेन से गाड़ियां सप्लाई होवै। एक-डेढ़ लाख गाड़ियां की वेटिंग चाल री है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Chest",
+      "Back / Spine"
+    ],
+    "severity_level": "Mild",
+    "duration": "आठ घंटा",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "F1.m4a",
+    "gender": "Female",
+    "raw_transcript": "पेपर देवा जाना तुम्हारा टाइम पर पहुंचना तुम्हारा पेपर देवा वालो ही नहीं आया।  पेपर देवा जाना तुम्हारा टाइम पर पहुंचना तुम्हारा टाइम पर पहुंचना तुम्हारा टाइम वालो ही नहीं आया।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "F2.m4a",
+    "gender": "Female",
+    "raw_transcript": "मुगन गर्न जाते हैं, घर का खेड़िया, मारे न्यूर्यों, मारे न्यूर्यों, तो मन्यूर्यों नहीं कि खावा भी भावा दियान देवा है अगो नहीं, न्यूर्यों न्यूर्यों, फिर कमजूरी आ जा, खाई भी चीज खावा की बोला, नकरा करा, फिर डॉक्टर गु",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "F3.m4a",
+    "gender": "Female",
+    "raw_transcript": "वो पेपर दे नहीं। दे नहीं। इनको नहीं थाग गिती करो। मां तो दुगड़ दुमारो। जब मुँ आता है इनको ले चलान। सोगी। सोगी। तुम्हार फोन छाड़तो। फोन कहाना है। जिगगुन फोन तो फोन करियो। तो गहा आबा कठकना को नहीं। अरूट  मैंने भी कहती रोट्टे भी नहीं माना हूँ। अब ठंडी खानी पड़ागा आप थाएं।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "F4.m4a",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर का पास गई, उन्हें सजेशन करें।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "F5.m4a",
+    "gender": "Female",
+    "raw_transcript": "मारे गुण है मारे छोटी बेन है कि बेना करूँ कहीं हूँ आग फड़ू के नी फड़ू हूँ तो मने कहीं तारो मनो तो ही फड़ू नमबर जत रहा है नी उन्हीं साप से तो आग मत फड़ू तो उन्हीं की पेट नी फड़ू तो कहीं करूँ मने कहीं जी में तारो दिमा  इनकम होगा बहुत सारी तो फड़ भाई भी भाचर आग दे इनकम सोर्स",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "F6.m4a",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर गुण है मारी नानी जी बीमार है तो नानी जी ले नहीं गई। तो नानी जी के कराएने थे बड़ी रिपोर्ट। बड़ी जांचा कराएने थे। तो गया तो जांच वांच करें और उन दन तो सटेडे। तो फिर जांच तो कर दी पर फिर उन जांच वांच की क  गया फिर जांच दी गणी दूरात। जांच दी तो डॉक्टर उन्हें की कि या फोस्पीटर में जान बता जो। तो मां गया तो मां दो डॉक्टर आदा गंटा पहली ही चल गया। फिर ना तो गोर्या मली ना जांच दे की फिर दूसर दन गया तो फिर दूसर दन मली। �",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "रात",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "F7.m4a",
+    "gender": "Female",
+    "raw_transcript": "मामा जिदनी आगी, जाते मैंने समानों में मिलिया, फिर जिजने की रोट्या खाला।  जाते मैंने समानों में मिलिया, फिर जिजने की रोट्या खाला।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "F8.m4a",
+    "gender": "Female",
+    "raw_transcript": "मैं सब्जी मंडी में गया। मैं गणी भीर थी। पर मैं सब्जी लेनी थी नहीं। तो फिर सब्जी खरीदी माना है। जो सस्ती थी वे वे खरीद ली। मेंगी थी मैंने छोड़ दी। फिर चाला है। फिर मैं समान तो गणा दिख रहा था। मन तो गणा और तो गणा में�",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "F9.m4a",
+    "gender": "Female",
+    "raw_transcript": "मेरे कमर दर्द कर रही है तो गर्वारा ने बोले डॉक्टर गुरु साहब है दिखान लियावा। तो डॉक्टर साहब को नहीं कहा डॉक्टर साहब ने मुझे कही हो रही हो तो मने कमर दुख रही है तो आने कि खतर दन से दुख रही है मने कि एक मिना से दुख रही है तो �",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Backache"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [
+      "Back / Spine"
+    ],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Backache (Mild severity, duration: Not Specified).",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "F10.m4a",
+    "gender": "Female",
+    "raw_transcript": "मैं बहुत तेज नीद आड़ती। नीद आड़ती और फोन पर फोन पर फोन आया जो मैं गुस्सा आया जो मैंने फोन उठान मैंने दो तीन दो गार्या खाड़ती। गार्या खाड़न फोन खाड़ देवन फोन आ साइलेंट लाग देव। साइलेंट करेंगे फोन फोन फोन",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "F11.m4a",
+    "gender": "Female",
+    "raw_transcript": "मुझे भाषा में भाषा में गई तो माये नानी जी है तो नानी जी का गोर्या लेवनी थी।  अब मुझे गीते पहली बार अमेद यादी होनी कि गोर्या खा मला खानी मला गीतो सरी फेर में डॉक्टर गुड़ा गी तो डॉक्टर ने की पडची कटान लो।  फेर पडची कटा बागी तो पडची भी घड़ी दूरा कटा फेर भागी भागी भागी भागी भागी गी पडची कटा बागी तो पडची वारान की नियानी कटा गा दूसरी जगह पडची कटा गा फेर दूसरी जगह गी पडची कटान लेन आई डॉक्टर गुड़ा �  बड़ी जांच करावा भी गया तो फेर पडची शेनी वार रही वार पस गयो फेर जांच कराई को नी फेर गोरे ली तो गोरे ली तो आदी गोरे मली ना आदी गोरे तो मली को नी फेर आदी गोरे नी मली तो आदी गोरे बालाडे उन ली बालाडे उन पीशा मखरी दी त",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Hadoti"
+  },
+  {
+    "filename": "MF1.mpeg",
+    "gender": "Female",
+    "raw_transcript": "गणो बढ़िया। सोनोग्राफीरी रिपोर्ट में बालकरी हालत और पानी रोस्तर बिल्कुल ठीक है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF10.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ डॉक्टर साहब, रसोईरो काम करता करता अचानक माथो घूमन लाग जावे हैं और हाथ पग ठंडा पड़ जावे हैं।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Dizziness",
+      "Body Ache & Weakness"
+    ],
+    "symptoms_count": 2,
+    "affected_body_parts": [
+      "Head",
+      "Joints / Limbs"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Dizziness, Body Ache & Weakness (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF100.ogg",
+    "gender": "Female",
+    "raw_transcript": "E-UTI मतलब मूत्र मारगरो इंफेक्शन है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Urinary Tract"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF101.ogg",
+    "gender": "Female",
+    "raw_transcript": "इस खातर महाने काई परहेज रखनो पड़ सी।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF102.ogg",
+    "gender": "Female",
+    "raw_transcript": "दिन में कम सुकम 3-4 लीटर पानी पीजो। मैं सिरप और एंटीबायोटिक लिखू हूँ। दो-तीन दिन में जलन शांत हो जाती।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Head"
+    ],
+    "severity_level": "Mild",
+    "duration": "तीन दिन",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF103.ogg",
+    "gender": "Female",
+    "raw_transcript": "मैं थारी शुगर रीव डिपोर्ट देखी। फास्टिंग शुगर 145 आई है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [
+      "Diabetes Symptoms"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Diabetes Symptoms (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF104.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब मैं तो मीठों बिलकुल नहीं खाऊं फेर भी शुगर क्यों बढ़ रही है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF105.ogg",
+    "gender": "Female",
+    "raw_transcript": "केवल मीटों की कारण को नहीं चावल, आलू और तनावसू भी शुगर बड़े है। तू रोज पैदल चालो हो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF106.ogg",
+    "gender": "Female",
+    "raw_transcript": "गर आकाम में इस फुरसत को नहीं मिले डॉक्टर सहाब अलग सूप तहलड रोड टाइम नहीं मिले।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF107.ogg",
+    "gender": "Female",
+    "raw_transcript": "घर रोकाम और सेर अलग बात है। थाने रोज 30 मिनट रुके ठेलनो परसी।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF108.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साफ दवाईरी मात्रा बड़ा वड़ी पड़सी।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF109.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ, दवाई नी मात्रा थोड़ी बढ़ावू हूँ। एक महिना पाचे ABA-1 सीरी जार्ज करवा के फेर माने दिखाव जो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF11.mpeg",
+    "gender": "Female",
+    "raw_transcript": "थाने पेटरी सोनोग्राफी कराई थी के?",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF110.ogg",
+    "gender": "Female",
+    "raw_transcript": "बच्चारी उमर कितनी है? काई तकलीफ है?",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF111.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब यो बच्चो तीन साल जो हो गयो है पड़ घड़ो कमजूर है ना ठीक सुखावे है और ना इरो वजन बड़े है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF112.ogg",
+    "gender": "Female",
+    "raw_transcript": "यह बारबार बिमार पर जावे है या दस्तरी शिकायत रहे है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Diarrhea"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Diarrhea (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF113.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ जी महिने में दो वार तो बुखार या दस हो जावे हैं, घड़ो चुर्चरो भी रह वे हैं।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Fever (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF114.ogg",
+    "gender": "Female",
+    "raw_transcript": "बच्चा में कूपोशन और विटामिनरी कमी लागरी है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF115.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब खान पीण में काई बदलाग करा।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF116.ogg",
+    "gender": "Female",
+    "raw_transcript": "दाल और पानी, गट्टो, उबले उंडो, दूद और दल्यो देवो, साथे मल्टी विटामिन और सिरप भी लिखूँ।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Head"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF117.ogg",
+    "gender": "Female",
+    "raw_transcript": "बच्चारी सास गड़ी तेज चाल रही है। बुखार कदसू है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Fever (Severe severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF118.ogg",
+    "gender": "Female",
+    "raw_transcript": "डाक्टर साहाब कल रात सुखरू तेज भुखार है और चातीज में धरधरवी आवाज आवे है पसलिया भी धसरी है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF119.ogg",
+    "gender": "Female",
+    "raw_transcript": "बच्चा ने निमोनियों है और छाती में इंफेक्शन जम गयो है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Chest"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF12.ogg",
+    "gender": "Female",
+    "raw_transcript": "थारी पलका और नकल गणा फिक्या लाग रहा है। लागे है कि थारा शरीर में खूनरी कमी है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF120.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब इन्हें अस्तपताल में भर्ती करवाने पड़ती।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF121.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ, सास्वी तकलीव घड़ी है। तुरंत न्यूबोलाइजर और ओक्सीजन्री जरूरत है। अस्तपताल में भर्ती करवाणों ही सुरक्षित है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF13.mpeg",
+    "gender": "Female",
+    "raw_transcript": "हाँ, डॉक्टर क्यों थो कि महाने पीसीयो डिया है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF14.ogg",
+    "gender": "Female",
+    "raw_transcript": "तो महाने खूंडी जाच करवानी पड़सी।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF15.mpeg",
+    "gender": "Female",
+    "raw_transcript": "इस हार्मोनारी गड़बड़ और बीच को शारी वज़े सु होवे?",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF16.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ, हम हीमोगलोबिन री जाच कराला। माने थाने आइरन और फॉलिक एसेडरी गोली लिख्यू हूँ। खावा में पालक, गुड, चणा और हरी साग सबजी जादा राखो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Throat"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF17.mpeg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब यह दवाई सु ठीक हो जासी के?",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF18.ogg",
+    "gender": "Female",
+    "raw_transcript": "कहो बाईसा ताने क्या तकलीफ है?",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF19.mpeg",
+    "gender": "Female",
+    "raw_transcript": "हाँ, दवाई सु अराम बिल सी, फिर थाने रोज 45 मिनट चालनो या कसरत करनी पड़ सी और मीठो, मैदो और जंक फूड बिलकुल छोड़नो पड़ सी।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF2.ogg",
+    "gender": "Female",
+    "raw_transcript": "राम राम बाई साथ बताओ काई तकलीफ लेके आई हो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF20.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब पहला छै मैना सू मारो वजन बिना कारण घटियों बढ़ियों गयों है। मूँ पर सूजन रहवे है और थंड भी घणी लागे है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF21.mpeg",
+    "gender": "Female",
+    "raw_transcript": "बधाई हो! बालक कसो है?",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF22.ogg",
+    "gender": "Female",
+    "raw_transcript": "थारी महावारी भी आनियमित हो गई है काई।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF23.mpeg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साप, बालक पंधरा दिन रुए, पण माकु दूद घणु ओच्छो आवे, इवास ते बालक रोफ तो रावे।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF24.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ डॉक्टर, पीरियट्स टाइम पर नहीं आवे और घणों दर्द होवे, बाल भी घणा जड़ रहा है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF25.mpeg",
+    "gender": "Female",
+    "raw_transcript": "तुम बालक ने उपर रो दूद, गाहे रो दूद या तो डिब्बे रो दूद पियावे के।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF26.ogg",
+    "gender": "Female",
+    "raw_transcript": "ई थाइराइट ग्रंथी कम काम करे हैं। ओका लक्षन लागे हैं।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF27.mpeg",
+    "gender": "Female",
+    "raw_transcript": "जी डॉक्टर भूख मिटावन खातर कटोरी सु दूद देध्याँ।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF28.ogg",
+    "gender": "Female",
+    "raw_transcript": "थाइराइडरी जाच करवान सू पक्को पता चाल जासी।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF29.mpeg",
+    "gender": "Female",
+    "raw_transcript": "उपर रो दूद बिलकुल मत दीजो। इसु इन्फेक्शन रो डर रहा है और छे महीना तलक बस माय रो दूद ही काफी है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF3.mpeg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब, डिलिवरी अस्पताल में करानी पड़ सीने।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Chest"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF30.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ थारी थाइराइट प्रोफाइल्स जी जाच कराला। काल सुबह खाली पेट आवजो।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF31.mpeg",
+    "gender": "Female",
+    "raw_transcript": "तो फिर दूद बढ़ाबा वास्ते माने काई खानो चाहिजे?",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF32.ogg",
+    "gender": "Female",
+    "raw_transcript": "आओ बैठो कमर रोधर्द अब कीनो है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Back / Spine"
+    ],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF33.mpeg",
+    "gender": "Female",
+    "raw_transcript": "थे दलियो, जीरो, सौफ, दूद और खरी साग भाजी घणी खाजो। बालक जितनी वार दूद पीसी उतनोई दूद वधारो बनसी।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Joints / Limbs"
+    ],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF34.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब कमर निचला भाग में गणों तेज दर्द है। जुक के जाडू लगावा या बर्तन धोवा तो जहां निकल जावे है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Back / Spine"
+    ],
+    "severity_level": "Severe",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF35.mpeg",
+    "gender": "Female",
+    "raw_transcript": "खून री कमी पूरी करनी पड़सी। ओक रोकन री दवाई और आइरन फॉलिक एसेड री गोली लिखूला। थोड़ो थोड़ो करके दिन में कई वार खाती रेजो।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF36.ogg",
+    "gender": "Female",
+    "raw_transcript": "दर्द कमर सू नीचे पगारी तरफ भी जावे है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Back / Spine",
+      "Joints / Limbs"
+    ],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF37.mpeg",
+    "gender": "Female",
+    "raw_transcript": "इस हु भालक ने काई नुकसान तो को नहीं हो सी।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF38.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ जी दाइना पग में नस खिचन जैसों दर्द होवे हैं और पग सुन पड़ जावे हैं।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Joints / Limbs"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF39.mpeg",
+    "gender": "Female",
+    "raw_transcript": "इस रुआती गर्भवस्थारों असर है। जी का कारण इसो होवे है। थांकि खून रिजांचा सु हीमोग्लोबिन 9 ग्राम सु उच्छो लागे है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF4.ogg",
+    "gender": "Female",
+    "raw_transcript": "राम राम बाई साथ बताओ काई तकलीफ लेके आई हो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF40.ogg",
+    "gender": "Female",
+    "raw_transcript": "इस साइटिका या रीडरी डिस्क दबडरी वजह सु हो सके है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF41.mpeg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब तीसरो महिनो चाल रहु है। सवेरे उठताई गणी ओक आवे है और माथो भी गणो घूमे है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Head"
+    ],
+    "severity_level": "Moderate",
+    "duration": "सवेरे",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF42.ogg",
+    "gender": "Female",
+    "raw_transcript": "महाने आराम करनो पड़सी ही।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF43.mpeg",
+    "gender": "Female",
+    "raw_transcript": "काई खानो पीनो ठीक सुन हो जावे है के।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF44.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ, जमीन पर बैठन सू, बच जो और जुक के भारी सामान मत उठाओ। मैं थाने दरदरी दवाई और सिकाई रो तरीका बताओं हूँ।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF45.mpeg",
+    "gender": "Female",
+    "raw_transcript": "नमस्ते, थाको गर्भवस्थारों कुणसो मेनो चाल रिवय।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF46.ogg",
+    "gender": "Female",
+    "raw_transcript": "कहूँ काई तकलीफ है?",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF47.mpeg",
+    "gender": "Female",
+    "raw_transcript": "ना डॉक्टर साहब काई भी खाऊं तो फोरण ओक हो जाओए। पानी भी पेट में टिके कोनी और देह में घणी जान कोनी रहगी।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF48.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर सहाब कल सु गलो घणो दुके है। कोई भी डिक्टा तो घणो दर्द होवे है और दर्द कान तक जावे है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Throat",
+      "Ears"
+    ],
+    "severity_level": "Severe",
+    "duration": "कल सु",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF49.mpeg",
+    "gender": "Female",
+    "raw_transcript": "नमस्ते, थाको गर्भवस्थारों कुणसो मेनो चाल रिवय।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF5.mpeg",
+    "gender": "Female",
+    "raw_transcript": "हाँ, अस्पताल में प्रसव गणु सुरक्षित रवे, आप आतकाल खातर गाड़ी रो नमबर और जरूरी समान पहला ही तयार राख जो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF50.ogg",
+    "gender": "Female",
+    "raw_transcript": "बुखार भी आवे हैं काई।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Fever (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF51.mpeg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब तीसरो महिनो चाल रहु है। सवेरे उठताई गणी ओक आवे है और माथो भी गणो घूमे है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Head"
+    ],
+    "severity_level": "Moderate",
+    "duration": "सवेरे",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF52.ogg",
+    "gender": "Female",
+    "raw_transcript": "हलको बुखार है और पूरो शरीर तूट तो लागे है। नाग भी बंद है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Fever (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF53.mpeg",
+    "gender": "Female",
+    "raw_transcript": "काई खानो पीनो ठीक सुन हो जावे है के।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF54.ogg",
+    "gender": "Female",
+    "raw_transcript": "थारा टांसिल में सूजन आ गई है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF55.mpeg",
+    "gender": "Female",
+    "raw_transcript": "ना डॉक्टर साहब काई भी खाऊं तो फोरण ओक हो जाओए। पानी भी पेट में टिके कोनी और देह में घणी जान कोनी रहगी।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF56.ogg",
+    "gender": "Female",
+    "raw_transcript": "इस थंडा पानी पीवंटी वज़े सु होयो है काई?",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF57.mpeg",
+    "gender": "Female",
+    "raw_transcript": "इस रुआती गर्भवस्थारों असर है। जी का कारण इसो होवे है। थांकि खून रिजांचा सु हीमोग्लोबिन 9 ग्राम सु उच्छो लागे है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF58.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ मौसम बदल अर ठंडा पानी पीवन सू इंफेक्शन हो गयो है। गुनगुना पानी में नमक डाल के गरारा करो। अर जे एंटी बायोटिक लिखू हूँ ओ पाँच दिन पूरा ले जो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "पाँच दिन",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF59.mpeg",
+    "gender": "Female",
+    "raw_transcript": "इस हु भालक ने काई नुकसान तो को नहीं हो सी।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF6.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब माने घणा बकत सू, सुस्ती और कमजोरी लागे है। थोड़ी सी चालू तो सास फूलन लाग जावे है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Body Ache & Weakness"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Body Ache & Weakness (Severe severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF60.ogg",
+    "gender": "Female",
+    "raw_transcript": "थारी तबेत अचानक किंडरी खराब हुई।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF61.mpeg",
+    "gender": "Female",
+    "raw_transcript": "खून री कमी पूरी करनी पड़सी। ओक रोकन री दवाई और आइरन फॉलिक एसेड री गोली लिखूला। थोड़ो थोड़ो करके दिन में कई वार खाती रेजो।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF62.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब बाजारी चाट पकोड़ी खाई थी। ओका बाद सू लगातार उल्टी और पेट में घणी तेज एठन हो रही है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [
+      "Nausea & Vomiting"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Nausea & Vomiting (Severe severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF63.mpeg",
+    "gender": "Female",
+    "raw_transcript": "आईए बैठिये था के पगा में घणी सुझन लागरी है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Joints / Limbs"
+    ],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF64.ogg",
+    "gender": "Female",
+    "raw_transcript": "उल्टी साथे दस्त भी शुरू हो गया काई।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Nausea & Vomiting",
+      "Diarrhea"
+    ],
+    "symptoms_count": 2,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Nausea & Vomiting, Diarrhea (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF65.mpeg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब सातमो मेनो चाल रियो है। हफ़ता भर सू मू और पगा में घणी सूजन आगी है और मातो घणो भारी भारी रवे।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Joints / Limbs"
+    ],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF66.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ जी, दो तीन बार दस्त भी होया, पानी भी पेट में नीटिके, तुरंत उल्टी आ जावे।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Nausea & Vomiting",
+      "Diarrhea"
+    ],
+    "symptoms_count": 2,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Nausea & Vomiting, Diarrhea (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF67.mpeg",
+    "gender": "Female",
+    "raw_transcript": "ठाको बीपी देड़ सूर पचानवे आयो है। गर्भवस्था में ये घणो खतरनाक हो सके।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF68.ogg",
+    "gender": "Female",
+    "raw_transcript": "इस फूड पॉइजन रो असर है उल्टी रो कर रो इंजेक्शन और ओरस देनो पड़सी।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [
+      "Nausea & Vomiting"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Nausea & Vomiting (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF69.mpeg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर सहब, इस सु बालक ने काई खतरों तो को नहीं होसी?",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF7.mpeg",
+    "gender": "Female",
+    "raw_transcript": "थाने सबते मोटी तकलीफ काई है?",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF70.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब माने घणी घवराहट हो रही है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF71.mpeg",
+    "gender": "Female",
+    "raw_transcript": "इस प्रिक्लैंप्सिया हो सके थारो बीपी संभालनों घणो जरूरी है।  पिशाब में प्रोटीन री जाच करासूं, नमक ओचो खाजो और घणो अराम करजो।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Urinary Tract"
+    ],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF72.ogg",
+    "gender": "Female",
+    "raw_transcript": "चिंता मत करो आराम करो अर जद तक उल्टी बंद नहीं होवे तद तक ठोस खानो मत खावो बस नारियल रो पानी या नीबू रो पानी थोड़ा थोड़ा पीजो।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [
+      "Nausea & Vomiting"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Nausea & Vomiting (Mild severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF73.mpeg",
+    "gender": "Female",
+    "raw_transcript": "था की डिलिवरीरो टैम निर्का आवन वालो है। थाने सगला टीका लग गया के।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Throat"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF74.ogg",
+    "gender": "Female",
+    "raw_transcript": "थारी आख्यां गड़ी लाल हो रही है। काई होयो?",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF75.mpeg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब आठमा मिनो चाल रियो है टिटनेस रा बे टीका लग गया है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF76.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर सहाब आज सवेरे उठी तो दूनियों आख्या चिपकी हुई थी। घणी खुजली जलन हो रही है और पानी भी बह रहे हो है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [
+      "Skin Rash & Allergy"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "आज",
+    "clinical_summary": "Patient presents with Skin Rash & Allergy (Severe severity, duration: आज).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF77.ogg",
+    "gender": "Female",
+    "raw_transcript": "धूप में देखता आख्या चुन्दियावे है काई या दर्द होवे है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF78.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ जी रोशनी में आख्या खोलवी भी मुश्किल हो जावे है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF79.ogg",
+    "gender": "Female",
+    "raw_transcript": "आई आख आवण रो इनफेक्शन है यी एक सू दूसरे ने भी फैल सके है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF8.ogg",
+    "gender": "Female",
+    "raw_transcript": "थाने मातो गूमनों या आख्या आगी अन्धेरो चानों भी होवे है क्या?",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF80.ogg",
+    "gender": "Female",
+    "raw_transcript": "घर रटाबरा ने इसु किड़ बचावू?",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF81.ogg",
+    "gender": "Female",
+    "raw_transcript": "थारो तोलियो और रुमाल अलग राख जो। आख्याने साफ थंडा पानी सुधोगो और ई आई ड्रॉप दिन में चार बाल डाल जो।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF82.ogg",
+    "gender": "Female",
+    "raw_transcript": "धारी छातीरी धड़कन गड़ी तेज लागरी है, काई तकलीफ है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Chest"
+    ],
+    "severity_level": "Severe",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF83.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब अचानक सीना में गबराट फूड लागी, पसीनों आवण लाग गयू और लागे है जड़ू दम गुट रहे है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF84.ogg",
+    "gender": "Female",
+    "raw_transcript": "चालो पेला बीपी अर नाडी चेकर लेवा। थारो बीपी थोड़ा हाई है और धड़कन 110 है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF85.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब कदे इ दिलरो दोरो तो नहीं है, माने घरो डर लाग रहे हो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Chest"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF86.ogg",
+    "gender": "Female",
+    "raw_transcript": "ना इस घबराहट और बीपी बढ़न रो मिल्यो जुल्यो असर है। तसली खातर एक इसीजी कर लेवा।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Chest Pain & Cardiac Discomfort"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Chest Pain & Cardiac Discomfort (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF87.ogg",
+    "gender": "Female",
+    "raw_transcript": "ठीक है डॉक्टर साहब।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF88.ogg",
+    "gender": "Female",
+    "raw_transcript": "इस सीजी बिल्कुल ठीक आयो है। गबरावन क्री बातखोनी मनने शांत राख जो और इस गोली जीव नीचे राख के ले जो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF89.ogg",
+    "gender": "Female",
+    "raw_transcript": "बुखार कद सुआवे है और किडो लागे है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Fever (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF9.mpeg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब पाछला चार पाँच मीना सू मावारी गणी देर सू आवे। वजन भी बढ़तो जावे और मूपर दाना भी निकल रिया है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "पाँच मीना सू",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF90.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर साहब काल सांज अचानक इतनी ठंड लागी कि दो रजाई ओड़न पर भी कपकपी बंद नहीं हुई फिर तेज बुखार चड़ गयो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Fever (Severe severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF91.ogg",
+    "gender": "Female",
+    "raw_transcript": "बुखार उत्रया पाछे घणों पसीनों आयो काई।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Fever (Severe severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF92.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ जी रात ने कपड़ा पसीना सो भीग गया और बुखार उतर गयो पर आज दुपेर फिर उड़ाई हाल हो गयो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "रात",
+    "clinical_summary": "Patient presents with Fever (Moderate severity, duration: रात).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF93.ogg",
+    "gender": "Female",
+    "raw_transcript": "यह मलेरियारों लक्षण है। थारे आसपास मच्चर गणा है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF94.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ, महारा इलाका में पानी भरी हो रही हो है। इस कारण मच्चर घणा है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF95.ogg",
+    "gender": "Female",
+    "raw_transcript": "हम खून रो एमपी टेस्ट कराला और मलेरियारी दवाई तुरंत चालू कराला।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF96.ogg",
+    "gender": "Female",
+    "raw_transcript": "कहो बाई सा काई तकलीफ है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF97.ogg",
+    "gender": "Female",
+    "raw_transcript": "डॉक्टर सहाब पिशाब करता बखत गणी तेज जलन अर दर्द होवे बार बार पिशाब आवे पर थोड़ा थोड़ा आवे।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Urinary Tract"
+    ],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF98.ogg",
+    "gender": "Female",
+    "raw_transcript": "पेट रा निचला भाग में दर्द या बुखार भी है कहीं।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Fever (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MF99.ogg",
+    "gender": "Female",
+    "raw_transcript": "हाँ जी निचला पेट में बारीपन ला गया है और हलको बुखार भी है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Fever (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM1.ogg",
+    "gender": "Male",
+    "raw_transcript": "ताप का सागे ठंडिया दुजणी भी लाग काईं।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Fever (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM2.ogg",
+    "gender": "Male",
+    "raw_transcript": "हाँ डॉक्टर साहब, रात में घड़ी ठंड लाग गया है। और पसीनों भी आया है। पाच्छ ताप थोड़ों उत्रे हैं, पर सुबह फेर तेज हो जाया वगर है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "रात",
+    "clinical_summary": "Patient presents with Fever (Severe severity, duration: रात).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM3.ogg",
+    "gender": "Male",
+    "raw_transcript": "ठीक है, खासी, उल्टी या गडम खरास भी है काई।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Cough",
+      "Nausea & Vomiting"
+    ],
+    "symptoms_count": 2,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Cough, Nausea & Vomiting (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM4.ogg",
+    "gender": "Male",
+    "raw_transcript": "खास सीतो हड़की है पड़ मुंडो एकदम कड़वो हो गयो। हर खान रोबी मन कुन करिया गया आजकल।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "आज",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM5.ogg",
+    "gender": "Male",
+    "raw_transcript": "समझ गयो। मैं थाने खूनरी जाच लिख रहे हूँ। तदताई ताप और पीडरी दवाई भी दे रहे हूँ। इन्हें दिन में तीन बार गुणूना पाड़ी सागली जो और पूरो आराम कर जो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Fever (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM6.ogg",
+    "gender": "Male",
+    "raw_transcript": "बोलो ठाने का इन तकलीफ है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM7.ogg",
+    "gender": "Male",
+    "raw_transcript": "डॉक्टर साहब कार रात ब्याव में जीमे पाच है पेट में गणी मरोडर पीड हो रही है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Moderate",
+    "duration": "रात",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM8.ogg",
+    "gender": "Male",
+    "raw_transcript": "पेट में पीड की जगा है। उपरा काई या सुंडी का कन्ने।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM9.ogg",
+    "gender": "Male",
+    "raw_transcript": "सुन्नी उपर घणी जलनर भारीपन लागरियो है। दो तीन बार तो उल्टी भी होएगी। अर खाटी डकारा होए।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [
+      "Nausea & Vomiting"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Nausea & Vomiting (Severe severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM10.ogg",
+    "gender": "Male",
+    "raw_transcript": "लग है तल्यो भुनो खाना सु एसिडिटी रपच होएगी थन। पेट न दबाया पर पीड बदग आई।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Acidity & Indigestion"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Acidity & Indigestion (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM11.ogg",
+    "gender": "Male",
+    "raw_transcript": "हाँ डॉक्टर साहब, पेट ना हाथ लगाया भी दुख है, हर भारीपन भी लाग रहे है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Stomach / Abdomen",
+      "Joints / Limbs"
+    ],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM12.ogg",
+    "gender": "Male",
+    "raw_transcript": "गबराओ गोनी, मैं थाने एक एंट एसिड और पेट दर्द दी गोली रिखने हूँ। दो दिन हलको और जल्दी पाच बालो खानो खाजो, जिया खीटडी या दड़ियो। और मिर्च मसालों परेज गरो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Abdominal Pain"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Moderate",
+    "duration": "दो दिन",
+    "clinical_summary": "Patient presents with Abdominal Pain (Moderate severity, duration: दो दिन).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM13.ogg",
+    "gender": "Male",
+    "raw_transcript": "राम राम साहब, था की पुरानी सुगर्री रिपोर्ट किया चाल रही है?",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM14.ogg",
+    "gender": "Male",
+    "raw_transcript": "डॉक्टर साहब कई हफ़ता सू मने घणी 30 लागे है और बार बार मूतबा भी जानो पड़े।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM15.ogg",
+    "gender": "Male",
+    "raw_transcript": "थाने सरीर में कमजोरी या फेर आख्या का आगे धुनलो धुनलो भी दिखे गया।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Body Ache & Weakness"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Mild",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Body Ache & Weakness (Mild severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM16.ogg",
+    "gender": "Male",
+    "raw_transcript": "हाँ डॉक्टर साहब, सारा दिन घणी ठखावट रहेवे, थोड़ो सो काम करूँ और हाथ पक दुजण लाग जावे और वजन भी घटतो जारेवे।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Joints / Limbs"
+    ],
+    "severity_level": "Severe",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM17.ogg",
+    "gender": "Male",
+    "raw_transcript": "आपको ब्लड और सुगर बड़ेड हो सके थे डायबर्टीज़ भी दवाई तेमू ले ले होगे।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM18.ogg",
+    "gender": "Male",
+    "raw_transcript": "एक कर बीच में दवाई खतम होईगी, फिर दो तीन लिन लेई कौन से क्यों...",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM19.ogg",
+    "gender": "Male",
+    "raw_transcript": "दवाई कदे भी बीच में कौन छोड़नी चाहिए। मैं था कि पेटरी सुगर फेर जाता ना। तद ताई मीठो एकदम बंद राग जो। और सुबह 20 मिनट घुमन जाये करो।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [
+      "Stomach / Abdomen"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM20.ogg",
+    "gender": "Male",
+    "raw_transcript": "बताओ कद सूख, हासी, जुखामरी दिक्कत आवे?",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Cold & Coryza"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Cold & Coryza (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM21.ogg",
+    "gender": "Male",
+    "raw_transcript": "डॉक्टर साहब, एक हफ़ता सु जुखाम है, नाक भी भेरी है और छाती में जकड़न सी लग गया।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Cold & Coryza",
+      "Chest Pain & Cardiac Discomfort"
+    ],
+    "symptoms_count": 2,
+    "affected_body_parts": [
+      "Chest"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Cold & Coryza, Chest Pain & Cardiac Discomfort (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM22.ogg",
+    "gender": "Male",
+    "raw_transcript": "खासी में बलगाम आ रहा है कि सूखी खासी है।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Cough"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Cough (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM23.ogg",
+    "gender": "Male",
+    "raw_transcript": "बल्गमाली खासी है डॉक्टर साहब। हर रात ने सोया पाछा जद सास लेवने जणा सीटी जियान की आवाजा भी आवे। हर सास फूलन भी लग गये।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Cough"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "रात",
+    "clinical_summary": "Patient presents with Cough (Moderate severity, duration: रात).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM24.ogg",
+    "gender": "Male",
+    "raw_transcript": "थन्ने धूल माटी या थंडी हवाओं एलर्जी अगाईं।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [
+      "Skin Rash & Allergy"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Skin Rash & Allergy (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM25.ogg",
+    "gender": "Male",
+    "raw_transcript": "हाँ साहब, धूल में जाओने जणा बार-बार छीका भी आवने लग गये।",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM26.ogg",
+    "gender": "Male",
+    "raw_transcript": "थाना ब्रोंकाइटस और कफ इंफेक्शन है। मैं कफ सिरप, एंटिबायोटिक और भाप लेवन रही सला दे रहे हूँ। दिन में तीन बार गरम पाणी में भाप लीजो और थंडो पाणी मत पीजो अबू।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [
+      "Cough"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [
+      "Head"
+    ],
+    "severity_level": "Moderate",
+    "duration": "Not Specified",
+    "clinical_summary": "Patient presents with Cough (Moderate severity, duration: Not Specified).",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM27.ogg",
+    "gender": "Male",
+    "raw_transcript": "राम राम! आओ बेठो! बताओ थाने काई तकलीफ है?",
+    "detected_dialect": "Regional Rajasthani",
+    "extracted_symptoms": [],
+    "symptoms_count": 0,
+    "affected_body_parts": [],
+    "severity_level": "Moderate",
+    "duration": "कल",
+    "clinical_summary": "General health inquiry / check-up consultation.",
+    "source_dataset": "Marwari"
+  },
+  {
+    "filename": "MM28.ogg",
+    "gender": "Male",
+    "raw_transcript": "डॉक्टर साब मना तीन दिन सु घणो ताप आ रहे है। सारा सरीर में घणी पीड भी हो रही है। हर मात्थो भी भारी लाग रहे है।",
+    "detected_dialect": "Marwari",
+    "extracted_symptoms": [
+      "Fever"
+    ],
+    "symptoms_count": 1,
+    "affected_body_parts": [],
+    "severity_level": "Severe",
+    "duration": "तीन दिन सु",
+    "clinical_summary": "Patient presents with Fever (Severe severity, duration: तीन दिन सु).",
+    "source_dataset": "Marwari"
+  }
+]
