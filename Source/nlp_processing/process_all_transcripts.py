@@ -25,14 +25,23 @@ if sys.platform == 'win32':
 
 from symptom_extractor import RegionalSymptomExtractor
 
-REPO_DIR = r"C:\Users\sande\Desktop\SKIT-DS-B-2023-2027-CSE-DS-028"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
 DATA_DIR = os.path.join(REPO_DIR, "Data")
 
-HADOTI_CSV = os.path.join(DATA_DIR, "hadoti_transcripts.csv")
-MARWARI_CSV = os.path.join(DATA_DIR, "marwari_transcripts.csv")
+# Primary organized paths with fallback to legacy paths
+HADOTI_CSV = os.path.join(DATA_DIR, "Transcripts", "Hadoti", "hadoti_transcripts.csv")
+if not os.path.exists(HADOTI_CSV):
+    HADOTI_CSV = os.path.join(DATA_DIR, "hadoti_transcripts.csv")
 
-OUTPUT_CSV = os.path.join(DATA_DIR, "processed_symptoms.csv")
-OUTPUT_JSON = os.path.join(DATA_DIR, "processed_symptoms.json")
+MARWARI_CSV = os.path.join(DATA_DIR, "Transcripts", "Marwari", "marwari_transcripts.csv")
+if not os.path.exists(MARWARI_CSV):
+    MARWARI_CSV = os.path.join(DATA_DIR, "marwari_transcripts.csv")
+
+PROCESSED_DIR = os.path.join(DATA_DIR, "Processed")
+os.makedirs(PROCESSED_DIR, exist_ok=True)
+OUTPUT_CSV = os.path.join(PROCESSED_DIR, "processed_symptoms.csv")
+OUTPUT_JSON = os.path.join(PROCESSED_DIR, "processed_symptoms.json")
 
 def main():
     print("=" * 60)

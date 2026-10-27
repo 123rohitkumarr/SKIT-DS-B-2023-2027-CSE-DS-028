@@ -1,6 +1,9 @@
 import os
 import csv
 
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
+
 def clean_transcript(text):
     text = text.strip()
     # Strip enclosing quotes if present (e.g., in M11-M20 files)
@@ -8,8 +11,11 @@ def clean_transcript(text):
         text = text[1:-1].strip()
     return text
 
-def generate_csv(output_paths):
-    transcripts_dir = os.path.join('Data', 'transcripts')
+def generate_csv(output_paths, transcripts_dir=None):
+    if transcripts_dir is None:
+        transcripts_dir = os.path.join(REPO_DIR, 'Data', 'Transcripts', 'Hadoti')
+        if not os.path.exists(transcripts_dir):
+            transcripts_dir = os.path.join(REPO_DIR, 'Data', 'Hadoti_Transcripts')
     rows = []
 
     # Process Male voice transcripts (M1 to M20)
@@ -53,7 +59,6 @@ def generate_csv(output_paths):
 
 if __name__ == '__main__':
     targets = [
-        os.path.join('Data', 'transcripts.csv'),
-        os.path.join('Data', 'hadoti_transcripts.csv'),
+        os.path.join(REPO_DIR, 'Data', 'Transcripts', 'Hadoti', 'hadoti_transcripts.csv'),
     ]
     generate_csv(targets)
