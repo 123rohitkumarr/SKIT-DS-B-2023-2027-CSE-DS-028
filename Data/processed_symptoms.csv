@@ -59,7 +59,7 @@ MF121.ogg,Female,Marwari,Regional Rajasthani,0,,,Moderate,कल,General health 
 MF13.mpeg,Female,Marwari,Marwari,0,,,Moderate,Not Specified,General health inquiry / check-up consultation.,"हाँ, डॉक्टर क्यों थो कि महाने पीसीयो डिया है।"
 MF14.ogg,Female,Marwari,Marwari,0,,,Moderate,Not Specified,General health inquiry / check-up consultation.,तो महाने खूंडी जाच करवानी पड़सी।
 MF15.mpeg,Female,Marwari,Marwari,0,,,Moderate,Not Specified,General health inquiry / check-up consultation.,इस हार्मोनारी गड़बड़ और बीच को शारी वज़े सु होवे?
-MF16.ogg,Female,Marwari,Regional Rajasthani,0,,Throat,Moderate,Not Specified,General health inquiry / check-up consultation.,"हाँ, हम हीमोगलोबिन री जाच कराला। माने थाने आइरन और फॉलिक एसेडरी गोली लिख्यू हूँ। खावा में पालक, गुड, चणा और हरी साग सबजी जादा राखो।"
+MF16.ogg,Female,Marwari,Regional Rajasthani,1,Sore Throat,Throat,Moderate,Not Specified,"Patient presents with Sore Throat (Moderate severity, duration: Not Specified).","हाँ, हम हीमोगलोबिन री जाच कराला। माने थाने आइरन और फॉलिक एसेडरी गोली लिख्यू हूँ। खावा में पालक, गुड, चणा और हरी साग सबजी जादा राखो।"
 MF17.mpeg,Female,Marwari,Regional Rajasthani,0,,,Moderate,Not Specified,General health inquiry / check-up consultation.,डॉक्टर साहब यह दवाई सु ठीक हो जासी के?
 MF18.ogg,Female,Marwari,Regional Rajasthani,0,,,Moderate,कल,General health inquiry / check-up consultation.,कहो बाईसा ताने क्या तकलीफ है?
 MF19.mpeg,Female,Marwari,Regional Rajasthani,0,,,Moderate,Not Specified,General health inquiry / check-up consultation.,"हाँ, दवाई सु अराम बिल सी, फिर थाने रोज 45 मिनट चालनो या कसरत करनी पड़ सी और मीठो, मैदो और जंक फूड बिलकुल छोड़नो पड़ सी।"
@@ -94,7 +94,7 @@ MF44.ogg,Female,Marwari,Regional Rajasthani,0,,,Severe,Not Specified,General hea
 MF45.mpeg,Female,Marwari,Marwari,0,,,Moderate,Not Specified,General health inquiry / check-up consultation.,"नमस्ते, थाको गर्भवस्थारों कुणसो मेनो चाल रिवय।"
 MF46.ogg,Female,Marwari,Regional Rajasthani,0,,,Moderate,कल,General health inquiry / check-up consultation.,कहूँ काई तकलीफ है?
 MF47.mpeg,Female,Marwari,Marwari,0,,Stomach / Abdomen,Severe,Not Specified,General health inquiry / check-up consultation.,ना डॉक्टर साहब काई भी खाऊं तो फोरण ओक हो जाओए। पानी भी पेट में टिके कोनी और देह में घणी जान कोनी रहगी।
-MF48.ogg,Female,Marwari,Marwari,0,,Throat; Ears,Severe,कल सु,General health inquiry / check-up consultation.,डॉक्टर सहाब कल सु गलो घणो दुके है। कोई भी डिक्टा तो घणो दर्द होवे है और दर्द कान तक जावे है।
+MF48.ogg,Female,Marwari,Marwari,1,Sore Throat,Throat; Ears,Severe,कल सु,"Patient presents with Sore Throat (Severe severity, duration: कल सु).",डॉक्टर सहाब कल सु गलो घणो दुके है। कोई भी डिक्टा तो घणो दर्द होवे है और दर्द कान तक जावे है।
 MF49.mpeg,Female,Marwari,Marwari,0,,,Moderate,Not Specified,General health inquiry / check-up consultation.,"नमस्ते, थाको गर्भवस्थारों कुणसो मेनो चाल रिवय।"
 MF5.mpeg,Female,Marwari,Regional Rajasthani,0,,,Moderate,Not Specified,General health inquiry / check-up consultation.,"हाँ, अस्पताल में प्रसव गणु सुरक्षित रवे, आप आतकाल खातर गाड़ी रो नमबर और जरूरी समान पहला ही तयार राख जो।"
 MF50.ogg,Female,Marwari,Regional Rajasthani,1,Fever,,Moderate,Not Specified,"Patient presents with Fever (Moderate severity, duration: Not Specified).",बुखार भी आवे हैं काई।
